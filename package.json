@@ -60,7 +60,7 @@
     "config": "^3.3.11",
     "date-fns": "^3.6.0",
     "lodash": "^4.17.21",
-    "mongoose": "^8.5.0",
+    "mongoose": "^8.9.5",
     "nestjs-pino": "^4.1.0",
     "permissionless": "^0.2.11",
     "pino-http": "^10.2.0",
