@@ -3334,12 +3334,12 @@ bufferutil@^4.0.1:
   dependencies:
     node-gyp-build "^4.3.0"
 
-bullmq@^5.8.5:
-  version "5.31.0"
-  resolved "https://registry.yarnpkg.com/bullmq/-/bullmq-5.31.0.tgz#0994e89a10365f3adce33c66f3342b0544d28464"
-  integrity sha512-wAOHE78Hmx60bFXqQ8FmptG4tHnYutBbu1vGY9HXPIwFQMGLrvKkhn3Jc2BPZQZVWMTGXbl0W55FAjucJcA+uw==
+bullmq@^5.34.10:
+  version "5.40.2"
+  resolved "https://registry.yarnpkg.com/bullmq/-/bullmq-5.40.2.tgz#ab6d1e9cbbe6dd1ad726f85a3aaed4c36b3be1f3"
+  integrity sha512-Cn4NUpwGAF4WnuXR2kTZCTAUEUHajSCn/IqiDG9ry1kVvAwwwg1Ati3J5HN2uZjqD5PBfNDXYnsc2+0PzakDwg==
   dependencies:
-    cron-parser "^4.6.0"
+    cron-parser "^4.9.0"
     ioredis "^5.4.1"
     msgpackr "^1.11.2"
     node-abort-controller "^3.1.1"
@@ -3665,7 +3665,7 @@ create-require@^1.1.0:
   resolved "https://registry.yarnpkg.com/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
-cron-parser@^4.6.0:
+cron-parser@^4.9.0:
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/cron-parser/-/cron-parser-4.9.0.tgz#0340694af3e46a0894978c6f52a6dbb5c0f11ad5"
   integrity sha512-p0SaNjrHOnQeR8/VnfGbmg9te2kfyYSQ7Sc/j/6DtPL3JQvKxmjO9TSjNFpujqV3vEYYBvNNvXSxzyksBWAx1Q==
