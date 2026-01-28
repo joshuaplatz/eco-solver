@@ -59,7 +59,7 @@
     "cache-manager": "^6.3.2",
     "config": "^3.3.11",
     "date-fns": "^3.6.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mongoose": "^8.5.0",
     "nestjs-pino": "^4.1.0",
     "permissionless": "^0.2.11",
