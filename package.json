@@ -40,7 +40,7 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.592.0",
+    "@aws-sdk/client-secrets-manager": "^3.730.0",
     "@eco-foundation/routes-ts": "1.6.12",
     "@launchdarkly/node-server-sdk": "^9.7.1",
     "@liaoliaots/nestjs-redis-health": "^9.0.4",
@@ -48,7 +48,7 @@
     "@nestjs/bullmq": "^10.1.1",
     "@nestjs/cache-manager": "3.0.0-next.0",
     "@nestjs/common": "^10.0.0",
-    "@nestjs/config": "^3.2.2",
+    "@nestjs/config": "^4.0.3",
     "@nestjs/core": "^10.0.0",
     "@nestjs/event-emitter": "^2.0.4",
     "@nestjs/mongoose": "^10.0.10",
